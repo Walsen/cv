@@ -1,0 +1,16 @@
+body {
+    background-color:azure;
+}
+
+hr {
+    border-style: none;
+    width: 5%;
+    vertical-align: middle;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: gray;
+}
+
+h1, h3 {
+    color: #66BFBF;
+}
